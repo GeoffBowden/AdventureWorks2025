@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AdventureWorks2025/AdventureWorks2025.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
